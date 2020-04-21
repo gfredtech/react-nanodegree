@@ -1,0 +1,9 @@
+export const CLEAR_HISTORY = 'CLEAR_HISTORY';
+export const SET_HISTORY = 'SET_HISTORY';
+export const GET_USER = 'GET_USER';
+export const GET_QUESTIONS = 'GET_QUESTIONS';
+export const SAVE_QUESTION = 'SAVE_QUESTION';
+export const SAVE_QUESTION_ANSWER = 'SAVE_QUESTION_ANSWER';
+export const GET_USERS = 'GET_USERS';
+export const LOGOUT = 'LOGOUT';
+export const LOGIN = 'LOGIN';
